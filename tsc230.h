@@ -1,6 +1,6 @@
 #ifndef TSC230_H
 #define TSC230_H
-#include "src/rgb.hpp"
+#include "src/rgb.h"
 #include <Arduino.h>
 
 /// \brief
